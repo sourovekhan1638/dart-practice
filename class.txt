@@ -1,0 +1,25 @@
+class P{
+  int i=100;
+  display(){
+    print("class p =$i");
+  }
+}
+class c{
+  int a=50;
+  show(){
+    print("class c=$a");
+  }
+}
+void main(){
+  print("Enter the class");
+  P p=P();
+     
+}   
+
+
+
+
+
+
+
+
